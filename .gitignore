@@ -1,6 +1,5 @@
 
 .DS_Store
-exercises/Ex01/.vscode/launch.json
-/exercises/Ex01/.vscode
 /exercises/Ex01/obj
 .vscode
+/exercises/Ex02/obj
