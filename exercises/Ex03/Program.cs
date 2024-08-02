@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Ex02;
+namespace Ex03;
 
-public class SecondExercise
+public class ThirdExercise
 {
     public static void Main(string[] args)
     {

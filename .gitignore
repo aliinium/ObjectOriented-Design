@@ -1,6 +1,9 @@
 
 .DS_Store
 .vscode
+
+*.csproj
+
 /exercises/Ex01/obj
 /exercises/Ex03/obj
 /exercises/Ex04/obj

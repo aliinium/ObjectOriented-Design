@@ -1,7 +1,7 @@
 ﻿using System;
 using static System.Math;
 
-namespace Ex02;
+namespace Ex03;
 
 public class Point
 {
