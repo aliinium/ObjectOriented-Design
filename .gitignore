@@ -1,5 +1,6 @@
 
 .DS_Store
-/exercises/Ex01/obj
 .vscode
-/exercises/Ex02/obj
+/exercises/Ex01/obj
+/exercises/Ex03/obj
+/exercises/Ex04/obj
