@@ -12,8 +12,8 @@ public class FourthExercise
         r1.B = 4;
 
         Ratio r2 = new Ratio();
-        r2.A = 8;
-        r2.B = 10;
+        r2.A = 4;
+        r2.B = 8;
 
         Console.Write("Ratio1 = ");
         r1.Print();
